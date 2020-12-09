@@ -1,0 +1,25 @@
+.forecastDays{
+    display: inline-block;
+    
+  
+    padding: 6%;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    
+   
+    border-radius: 15%;
+    border-width: 4px;
+      border-style: solid;
+      border-color: #E69B9B;
+      background-color: rgba(61, 118, 141, 0.7);
+     
+    
+  
+  }
+  .date {
+      font-size: 170%;
+      padding-bottom: 5%;
+  }
+  .forecastData {
+      font-size: 120%;
+  }

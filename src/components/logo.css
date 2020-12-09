@@ -1,0 +1,11 @@
+
+.sun {
+  position: relative;
+  margin: 25;
+  padding: 25px;
+  padding-right: 80%;
+  margin-top: 25px;
+  box-sizing: border-box;
+  height: 200px;
+
+};
